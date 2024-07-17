@@ -1,23 +1,23 @@
-1.FAP - Faculty Assessment Protocol for KSR Institute
-  Title: Faculty Assessment Protocol (FAP)
-  Description: FAP streamlines faculty assessments at KSR Institute using Laravel, ensuring efficient and transparent evaluations.
+Project Details:
 
-2.Vimali - E-commerce site for organic store
-  Title: Vimali Organic Store
-  Description: Vimali is an e-commerce platform built with Laravel for an organic store, offering a seamless shopping experience.
+  Project 1:
+    Project Name: FAP - Faculty Assessment Protocol Product for WSPL
+    Description: Developed to streamline the documentation and approval process for faculty achievements, allowing for proof uploads, credit tracking, and profile management using Laravel.
 
-3.HOMS - Hostel Outpass Management System
-  Title: Hostel Outpass Management System (HOMS)
-  Description: HOMS simplifies outpass management with HTML, CSS, and PHP, currently in progress at KIOT.
-
-4.Bulk E-Certificate Generator
-  Title: Bulk E-Certificate Generator
-  Description: A Python software automating certificate generation for workshops and seminars.
-
-5.Attendance - Face Detection
-  Title: Attendance with Face Detection
-  Description: Python software in progress, employing facial recognition for efficient attendance tracking.
-
-6.Portfolio - For Company - Coming Soon
-  Title: Company Portfolio Website (Coming Soon)
-  Description: An upcoming HTML, CSS, and JavaScript website showcasing company services and projects.
+  
+  Project 2:
+    Project Name: Vimali - E-commerce Site for Organic Store
+    Description: Created an e-commerce platform for an organic store, featuring real-time user interaction, product management, admin control, and a POS system, developed using Laravel.
+  
+  Project 3:
+    Project Name: Hostel Out Pass Management System
+    Description: Developed a PHP-based system to manage hostel out passes, enabling students to apply and track requests and wardens to approve or reject them, including features for generating printable PDFs.
+  
+  Project 4:
+    Project Name: Bulk Certificate Generator
+    Description: Developed using Python, this tool automates the generation of bulk certificates from a given template and list of names, saving time and ensuring uniformity.
+  
+  Project 5:
+    Project Name: Attendance System - Face Detection
+    Description: Created an attendance system using Python and OpenCV, utilizing facial recognition technology to mark attendance automatically, enhancing efficiency and accuracy.
+  
